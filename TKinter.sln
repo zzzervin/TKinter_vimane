@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TKinter", "TKinter\TKinter.pyproj", "{9E2C126A-4FA8-46A0-B363-770B21FF8C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E2C126A-4FA8-46A0-B363-770B21FF8C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2C126A-4FA8-46A0-B363-770B21FF8C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90B8BD3-990F-439B-87D0-DAEDC9EC41A3}
+	EndGlobalSection
+EndGlobal
